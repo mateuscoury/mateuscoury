@@ -11,7 +11,20 @@
 Meu nome é Mateus Coury Ribeiro.Sou formado em Teconologias de Jogos Digitais pela Universidade FUMEC e estudante de desenvolvimento de softwares na Trybe!!
 A cada dia busco fazer de mim uma pessoa melhor que ontem e levo como príncipio sempre me desenvolver tanto tecnicamente como socialmente a fim de me tornar um  profissional  competente na área de tecnologia!!No tempo livre gosto de ver uma série da netflix  :tv:,tocar piano  :musical_keyboard: ou fazer alguma arte  nos softwares de 3D.  :art:
 
-
+<p align="left">
+ <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+  </a>  
+<a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a> 
+<a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+  </a>
+   <a href="https://pt-br.reactjs.org">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  </p>
 
 <h1></h1>
 
