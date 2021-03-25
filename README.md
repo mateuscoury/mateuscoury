@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-mateuscoury@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateuscoury@gmail.com)](mailto:mateuscoury@gmail.com)
 
 
-Olá e bem vindos ao meu git-hub!!!
+<h1>Olá e bem vindos ao meu git-hub!!!</h1>
 
 Meu nome é Mateus Coury Ribeiro sou formando em Teconologias de Jogos Digitais pela Universidade FUMEC e estudante de desenvolvimento de softwares na Trybe!!
 - 🔭 I’m currently working on ...
