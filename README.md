@@ -1,9 +1,8 @@
 ### Hi there 👋
 [![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Coury-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-coury-90463a163/)](https://www.linkedin.com/in/mateus-coury-90463a163/) 
 [![Gmail Badge](https://img.shields.io/badge/-mateuscoury@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateuscoury@gmail.com)](mailto:mateuscoury@gmail.com)
-
-Here are some ideas to get you started:
-Olá e bem vindo ao meu Git-Hub!!
+Olá e bem vindos ao meu git-hub!!!
+Meu nome é Mateus Coury Ribeiro sou formando em Teconologias de Jogos Digitais pela Universidade FUMEC e estudante de desenvolvimento de softwares na Trybe!!
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
