@@ -1,12 +1,11 @@
-### Hi there 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Coury-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-coury-90463a163/)](https://www.linkedin.com/in/mateus-coury-90463a163/) 
-[![Gmail Badge](https://img.shields.io/badge/-mateuscoury@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateuscoury@gmail.com)](mailto:mateuscoury@gmail.com)
 
 
 <h1>Olá e bem vindos ao meu git-hub!!!</h1>
 
 
-![Alt text](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+![Alt text](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif) [![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Coury-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-coury-90463a163/)](https://www.linkedin.com/in/mateus-coury-90463a163/) 
+[![Gmail Badge](https://img.shields.io/badge/-mateuscoury@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateuscoury@gmail.com)](mailto:mateuscoury@gmail.com)
+
 
 
 Meu nome é Mateus Coury Ribeiro sou formando em Teconologias de Jogos Digitais pela Universidade FUMEC e estudante de desenvolvimento de softwares na Trybe!!
