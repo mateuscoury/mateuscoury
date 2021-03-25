@@ -4,7 +4,10 @@
 
 
 <h1>Olá e bem vindos ao meu git-hub!!!</h1>
-![Alt Text](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
+
+![Alt text](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
 
 Meu nome é Mateus Coury Ribeiro sou formando em Teconologias de Jogos Digitais pela Universidade FUMEC e estudante de desenvolvimento de softwares na Trybe!!
 - 🔭 I’m currently working on ...
