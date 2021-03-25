@@ -8,8 +8,8 @@
 
 
 
-Meu nome é Mateus Coury Ribeiro sou formado em Teconologias de Jogos Digitais pela Universidade FUMEC e estudante de desenvolvimento de softwares na Trybe!!
-A cada dia busco fazer de mim uma pessoa melhor que ontém e levo como príncipio sempre me desenvolver tanto tecnicamente como socialmente a fim de me tornar um  profissional  competente na área de tecnologia!!No tempo livre gosto de ver uma série do netflix  :tv:,tocar músicas no piano  :musical_keyboard: ou fazer alguma arte  nos softwares de 3D.  :art:
+Meu nome é Mateus Coury Ribeiro.Sou formado em Teconologias de Jogos Digitais pela Universidade FUMEC e estudante de desenvolvimento de softwares na Trybe!!
+A cada dia busco fazer de mim uma pessoa melhor que ontem e levo como príncipio sempre me desenvolver tanto tecnicamente como socialmente a fim de me tornar um  profissional  competente na área de tecnologia!!No tempo livre gosto de ver uma série da netflix  :tv:,tocar músicas no piano  :musical_keyboard: ou fazer alguma arte  nos softwares de 3D.  :art:
 
 
 
