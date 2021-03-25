@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-[![Linkedin Badge](https://img.shields.io/badge/-Mateus%Coury-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-coury-90463a163/)](https://www.linkedin.com/in/mateus-coury-90463a163/) 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Coury-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-coury-90463a163/)](https://www.linkedin.com/in/mateus-coury-90463a163/) 
 
 
 Here are some ideas to get you started:
