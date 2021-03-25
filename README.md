@@ -4,6 +4,7 @@
 
 
 Olá e bem vindos ao meu git-hub!!!
+
 Meu nome é Mateus Coury Ribeiro sou formando em Teconologias de Jogos Digitais pela Universidade FUMEC e estudante de desenvolvimento de softwares na Trybe!!
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
