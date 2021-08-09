@@ -3,13 +3,7 @@
 <h1>Olá e bem vindos ao meu github!!!</h1>
 
 
-[![Gmail Badge](https://img.shields.io/badge/-mateuscoury@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateuscoury@gmail.com)](mailto:mateuscoury@gmail.com)
-
-
-My name is Mateus Coury Ribeiro.I'm gradueted in Game Design at Universidade Fumec and student of web development in Trybe!!
-Each day i look for make me a better person than yesterday and i carry as a principle to develop both technically and socially to become  a competent professional at T.I field!In free time i like to watch netflix series :tv:,play the piano :musical_keyboard: or do some art stuffs in the 3D softwares. :art:
-  
-            
+[![Gmail Badge](https://img.shields.io/badge/-mateuscoury@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateuscoury@gmail.com)](mailto:mateuscoury@gmail.com)            
 
 Meu nome é Mateus Coury Ribeiro.Sou formado em Teconologias de Jogos Digitais pela Universidade FUMEC e estudante de desenvolvimento de softwares na Trybe!!
 A cada dia busco fazer de mim uma pessoa melhor que ontem e levo como príncipio sempre me desenvolver tanto tecnicamente como socialmente a fim de me tornar um  profissional  competente na área de tecnologia!!No tempo livre gosto de ver uma série da netflix  :tv:,tocar piano  :musical_keyboard: ou fazer alguma arte  nos softwares de 3D.  :art:
