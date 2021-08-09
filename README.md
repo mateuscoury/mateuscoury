@@ -1,6 +1,6 @@
 
 
-<h1>Olá e bem vindos ao meu git-hub!!!</h1>
+<h1>Olá e bem vindos ao meu github!!!</h1>
 
 
 ![Alt text](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif) [![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Coury-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-coury-90463a163/)](https://www.linkedin.com/in/mateus-coury-90463a163/) 
