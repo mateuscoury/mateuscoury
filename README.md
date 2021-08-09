@@ -40,4 +40,4 @@ A cada dia busco fazer de mim uma pessoa melhor que ontem e levo como príncipio
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuscoury&show_icons=true&theme=radical)
+
