@@ -5,8 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-coury-90463a163/) 
 [![Gmail](http://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mateuscoury@gmail.com)      
 
-Meu nome é Mateus Coury Ribeiro.Sou formado em Teconologias de Jogos Digitais pela Universidade FUMEC e estudante de desenvolvimento de softwares na Trybe!!
-A cada dia busco fazer de mim uma pessoa melhor que ontem e levo como príncipio sempre me desenvolver tanto tecnicamente como socialmente a fim de me tornar um  profissional  competente na área de tecnologia!!No tempo livre gosto de ver uma série da netflix  :tv:,tocar piano  :musical_keyboard: ou fazer alguma arte  nos softwares de 3D.  :art:
+
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
